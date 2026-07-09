@@ -219,17 +219,17 @@ All scripts require root. Options:
 
 ---
 
-## Fuentes externas
+## External sources
 
-Parte de los scripts son propios; otros se han descargado de repositorios públicos o están inspirados en ellos:
+Some scripts are original work; others are downloaded from public repositories or inspired by them:
 
-| Script | Repositorio | Tipo |
-|--------|-------------|------|
-| `external/smart_info/syno_smart_info.sh` | [007revad/Synology_SMART_info](https://github.com/007revad/Synology_SMART_info) | descargado (v1.4.38) |
-| `external/coredumps/syno_clean_coredumps.sh` | [007revad/Synology_Cleanup_Coredumps](https://github.com/007revad/Synology_Cleanup_Coredumps) | descargado (v1.2.4) |
-| `setup/configure-synocrond.sh` | [AlexFromChaos/synology_hibernation_fixer](https://github.com/AlexFromChaos/synology_hibernation_fixer) · fork [007revad](https://github.com/007revad/synology_hibernation_fixer) | propio, inspirado en |
+| Script | Repository | Type |
+|--------|-----------|------|
+| `external/smart_info/syno_smart_info.sh` | [007revad/Synology_SMART_info](https://github.com/007revad/Synology_SMART_info) | downloaded (v1.4.38) |
+| `external/coredumps/syno_clean_coredumps.sh` | [007revad/Synology_Cleanup_Coredumps](https://github.com/007revad/Synology_Cleanup_Coredumps) | downloaded (v1.2.4) |
+| `setup/configure-synocrond.sh` | [AlexFromChaos/synology_hibernation_fixer](https://github.com/AlexFromChaos/synology_hibernation_fixer) · fork [007revad](https://github.com/007revad/synology_hibernation_fixer) | original, inspired by |
 
-El resto de scripts (`scheduled/nas-weekly-maintenance.sh`, `setup/optimize-kernel.sh`, `setup/nginx-security-headers.sh`, `scheduled/update-clamav.sh`, `setup/crowdsec-bouncer.py`, `scheduled/drive-sync-throttle.sh` y los demás de `scheduled/`) son de elaboración propia.
+All other scripts (`scheduled/nas-weekly-maintenance.sh`, `setup/optimize-kernel.sh`, `setup/nginx-security-headers.sh`, `scheduled/update-clamav.sh`, `setup/crowdsec-bouncer.py`, `scheduled/drive-sync-throttle.sh` and the rest of `scheduled/`) are original work.
 
 ---
 
