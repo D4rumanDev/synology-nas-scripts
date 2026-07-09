@@ -1,0 +1,19 @@
+# Logs
+*.log
+drive-sync-throttle.log
+
+# Bases de datos autoblockip
+*.db
+autoblockIPlist/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups y temporales
+*.bak
+*.tmp
