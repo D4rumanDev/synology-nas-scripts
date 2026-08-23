@@ -1,6 +1,5 @@
 # Logs
 *.log
-drive-sync-throttle.log
 
 # Bases de datos autoblockip
 *.db
